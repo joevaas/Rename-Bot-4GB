@@ -23,7 +23,6 @@ class script(object):
 <b>📢 Channel :</b> <a href='https://t.me/Madflix_Bots'>Tamil Anime</a>
 <b>🧑‍💻 Developer :</b> <a href='https://t.me/Tamil_Anime_Files'>AniShin And Moon Walker</a>
 
-<b>♻️ Bot Made By :</b> @Madflix_Bots"""
 
     DONATE_TXT = """
 <b>🥲 Thanks For Showing Interest In Donation! ❤️</b>
