@@ -14,7 +14,7 @@ DB_URL = os.environ.get("DB_URL", "")
 DB_NAME = os.environ.get("DB_NAME", "")
 
 STRING = os.environ.get("STRING", "")
-BOT_PIC = os.environ.get("BOT_PIC", "")
+BOT_PIC = os.environ.get("BOT_PIC", "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F905716175042263704%2F&psig=AOvVaw28PtUhFFUeaiqn0Pq5OXIx&ust=1721133152238000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDEw-OGqYcDFQAAAAAdAAAAABAJ")
 
 
 
